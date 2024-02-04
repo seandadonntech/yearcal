@@ -1,4 +1,4 @@
-# Age Calculator Readme
+# yearcal
 
 ## Description
 This Python script takes the current year and your age as input and calculates the year you were born. It then determines whether you are an adult or a minor based on the calculated birth year.
